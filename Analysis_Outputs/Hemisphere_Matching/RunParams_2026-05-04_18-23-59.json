@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-05-04_18-23-59",
+  "params": {
+    "out_folder": "Analysis_Outputs/Hemisphere_Matching",
+    "dot_tangent": 12,
+    "smat_val": 250,
+    "use_alpha": true,
+    "method": "average",
+    "metric": "euclidean"
+  }
+}
