@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-05-04_17-02-20",
+  "params": {
+    "out_folder": "Analysis_Outputs/Neuron_Clusters_Sensory",
+    "dot_tangent": 12,
+    "smat_val": 250,
+    "use_alpha": false,
+    "score": "min",
+    "method": "ward",
+    "threshold": 0.5,
+    "plot_3d": false,
+    "re_blast": false,
+    "category": "Sensory"
+  }
+}

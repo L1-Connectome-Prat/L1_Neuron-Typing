@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-05-01_16-49-48",
+  "params": {
+    "out_folder": "Analysis_Outputs/Neuron_Clusters_SU",
+    "dot_tangent": 12,
+    "smat_val": 250,
+    "use_alpha": true,
+    "score": "min",
+    "method": "ward",
+    "threshold": 0.33,
+    "plot_3d": true,
+    "re_blast": true,
+    "category": "SU"
+  }
+}

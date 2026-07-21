@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# L1_Neuron-Typing specific
+.idea/
+.ipynb_checkpoints/
+Analysis_Outputs/**/Errors.txt
+Analysis_Outputs/**/Compiled_*.pdf
+.claude/
