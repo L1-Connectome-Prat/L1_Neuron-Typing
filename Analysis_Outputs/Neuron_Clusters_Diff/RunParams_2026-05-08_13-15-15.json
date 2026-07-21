@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-08_13-15-15",
+  "params": {
+    "out_folder": "Analysis_Outputs/Neuron_Clusters_Diff",
+    "dot_tangent": 12,
+    "smat_val": 250,
+    "use_alpha": false,
+    "score": "min",
+    "method": "ward",
+    "threshold": 0.5,
+    "plot_3d": true,
+    "re_blast": true
+  }
+}
