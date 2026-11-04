@@ -133,7 +133,7 @@ python Scripts/upload_neuron_info.py
 
 ## Requirements
 
-Tables and figures use pandas, NumPy, matplotlib, seaborn, Plotly, and SciPy. Parquet files are written with PyArrow. Skeleton geometry, NBLAST, and brain transforms use navis and flybrains. Linkage caches use h5py. Compartment graphs use networkx. Panel labels use `place_panel_label` from `prats_helpers`. CATMAID access and STL import use pymaid and `connectome_analysis_claude`.
+Tables and figures use pandas, NumPy, matplotlib, seaborn, Plotly, and SciPy. Parquet files are written with PyArrow. Skeleton geometry, NBLAST, and brain transforms use navis and flybrains. Linkage caches use h5py. Compartment graphs use networkx. Panel labels use `place_panel_label` from `prats_helpers`. CATMAID access and STL import use pymaid and `connectome_analysis`.
 
 `PROJECTS_HOME` is required. The checkout is expected at `$PROJECTS_HOME/L1_Neuron-Typing`. External inputs are:
 

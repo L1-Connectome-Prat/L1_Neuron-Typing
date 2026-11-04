@@ -10,7 +10,7 @@ import navis
 from ._paths import skeleton_folder, tract_folder
 
 # Connectome package
-import connectome_analysis_claude as ca
+import connectome_analysis as ca
 
 #------------------------------------------------------------------------------
 __all__ = ["rename_lr_neurons",
@@ -61,7 +61,7 @@ def load_lineage_neurons(annot, category = "Diff",
     """
     Build the [nxr, nxl, all] neuron collection for a lineage annotation.
 
-    Wraps connectome_analysis_claude.assemble_neuron_collection (forwarding
+    Wraps connectome_analysis.assemble_neuron_collection (forwarding
     connector_labels so the L1 SWC label-7/8 synapse markers populate
     .connectors), then names + symmetrizes for plotting.
 

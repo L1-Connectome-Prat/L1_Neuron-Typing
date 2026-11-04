@@ -25,7 +25,7 @@ sns.set_style("ticks")
 from navis.nbl.smat import Lookup2d
 
 # Analysis package
-import connectome_analysis_claude as ca
+import connectome_analysis as ca
 import flybrains 
 
 # Local helpers

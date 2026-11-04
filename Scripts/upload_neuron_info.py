@@ -21,10 +21,10 @@ import numpy as np
 import pandas as pd
 
 import pymaid
-import connectome_analysis_claude as ca
+import connectome_analysis as ca
 
 #------------------------------------------------------------------------------
-label_file = files("connectome_analysis_claude.connect.catmaid_helpers").joinpath("Prat_Labeling.json")
+label_file = files("connectome_analysis.connect.catmaid_helpers").joinpath("Prat_Labeling.json")
 with open(str(label_file), "r") as f:
     prat_labels = json.load(f)
 

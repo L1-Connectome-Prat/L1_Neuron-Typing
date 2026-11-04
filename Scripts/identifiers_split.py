@@ -41,7 +41,7 @@ import pandas as pd
 
 import navis
 import pymaid
-import connectome_analysis_claude as ca
+import connectome_analysis as ca
 
 from Scripts.viz._paths import NEURON_INFO_CSV, COMPARTMENTS_HOME
 

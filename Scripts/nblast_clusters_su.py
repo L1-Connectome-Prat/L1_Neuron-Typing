@@ -25,7 +25,7 @@ import flybrains
 from navis.nbl.smat import Lookup2d
 
 # Analysis package
-import connectome_analysis_claude as ca
+import connectome_analysis as ca
 
 # Local helpers
 from Scripts.viz._paths        import (LINEAGES_NPY, nblast_matrix_path,
